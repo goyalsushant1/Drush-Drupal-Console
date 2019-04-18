@@ -1,0 +1,5 @@
+name: Drush 9 Commands
+description: This module will add custom commands to drush
+core: 8.x
+type: module
+package: Bootcamp
